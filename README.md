@@ -1,5 +1,5 @@
-Nama Anggota :	1. Annisah Fithri_211401029
-		2. Fatihannisa Listy Zulmi_211401034
+Nama Anggota :	1. Annisah Fithri(211401029)
+		2. Fatihannisa Listy Zulmi(211401034)
 
 Link Youtube : https://www.youtube.com/watch?v=oYzTYLun-GQ
 
