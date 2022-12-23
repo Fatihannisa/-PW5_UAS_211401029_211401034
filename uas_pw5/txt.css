@@ -1,0 +1,72 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgba(37, 44, 22, 0.621);
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.header {
+    padding-top: 15px;
+    text-align: center;
+    font-size:larger;
+    background-color:rgba(240, 248, 220, 0.621);
+    padding-bottom: 20px;
+}
+
+
+.navigasi {
+    background-color: rgba(37, 49, 6, 0.621);
+    overflow:hidden ;
+}
+
+.navigasi a {
+    color: white;
+    padding: 18px;
+    text-align: center;
+    text-decoration-style: double;
+    float: right;
+    display: block;
+}
+
+.navigasi a:hover {
+    background-color: rgba(240, 248, 220, 0.621);
+    color: rgb(15, 4, 4);
+}
+
+.leftcolumn {
+    float: left;
+    width: 75%;
+    padding-top: 25px;
+    text-align: justify;
+}
+
+.rightcolumn {
+    float: left;
+    width: 25%;
+    padding-top: 40px;
+    padding-left: 20px;
+}
+
+.card {
+    background: rgba(240, 248, 220, 0.621);
+    padding: 15px;
+    margin-top: 25px;
+}
+
+.rowcontent:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+.footer {
+    height: 2cm;
+    text-align: center;
+    background-color: rgba(241, 246, 227, 0.621);
+    margin-top: 20px;
+    padding-top: 7px;
+}

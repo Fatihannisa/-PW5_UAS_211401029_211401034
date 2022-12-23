@@ -1,0 +1,102 @@
+a {
+    text-decoration: none;
+}
+
+html {
+    height: 100%;
+}
+
+body {
+    background-repeat: no-repeat;
+
+}
+
+label {
+    font-family: "Candara", sans-serif;
+    font-size: 12pt;
+    color: #fff;
+}
+
+#forgot-pass {
+    color: #edbfa8;
+    font-family: "Candara", sans-serif;
+    font-size: 10pt;
+    margin-top: 3px;
+    text-align: left;
+}
+
+#card {
+    background: #000000;
+    border-radius: 8px;
+    box-shadow: 1px 2px 8px rgba(0, 0, 0, .65);
+    height: 410px;
+    margin: 6rem auto 9.1rem auto;
+    width: 329px;
+}
+
+#card-content {
+    padding: 12px 44px;
+}
+
+#card-title {
+    font-family: "Candara", sans-serif;
+    color: #fff;
+    letter-spacing: 4px;
+    padding-bottom: 23px;
+    padding-top: 13px;
+    text-align: center;
+}
+
+#signup {
+    color: #edbfa8;
+    font-family: "Candara", sans-serif;
+    font-size: 10pt;
+    margin-top: 16px;
+    text-align: center;
+}
+
+#submit-btn {
+    background: none;
+    border: none;
+    border-radius: 21px;
+    box-shadow: 0px 1px 8px #fff;
+    cursor: pointer;
+    color: white;
+    font-family: "Candara", sans-serif;
+    letter-spacing: 3px;
+    height: 42.3px;
+    margin: 0 auto;
+    margin-top: 50px;
+    transition: .25s;
+    width: 153px;
+}
+
+#submit-btn:hover {
+    box-shadow: rgb(213, 203, 203);
+}
+
+.form {
+    display: flex;
+    align-items: left;
+    flex-direction: column;
+}
+
+.form-border {
+    background: -webkit-linear-gradient(right, #fbfbfb, #0b0b0b);
+    height: 1px;
+    width: 100%;
+}
+
+.form-content {
+    background: #fbfbfb;
+    border: none;
+    outline: none;
+    padding-top: 14px;
+}
+
+.underline-title {
+    background: -webkit-linear-gradient(right, #fbfbfb, #0b0b0b);
+    height: 2px;
+    margin: -1.1rem auto 0 auto;
+    width: 120px;
+}

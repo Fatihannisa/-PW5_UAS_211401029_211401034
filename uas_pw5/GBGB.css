@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(238, 241, 217);
+    padding: 30px;
+    font-family: arial;
+}
+
+.header {
+    padding:25px;
+    text-align: center;
+    background-color: rgb(194, 48, 37);
+    color: white;
+
+}
+
+.header h1{
+    font-size: 30px;
+}
+
+.card {
+    background: rgb(194, 48, 37);
+    padding: 5px;
+    margin-top: 30px;
+    text-align: center;
+    font-size: smaller;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+}
